@@ -1,0 +1,22 @@
+Person_ID,First_Name,Last_Name,Affiliation,Contact,People Layer,Publication,Partner
+26,Simone,Bocca,University of Trento (IT),Contact_27,http://datascientia/livepeople/26,"https://doi.org/10.48550/arXiv.2105.09418; 
+https://doi.org/10.48550/arXiv.2209.14049",F
+27,Mayukh,Bagchi,University of Trento (IT),Contact_28,url_LP_27,"https://doi.org/10.48550/arXiv.2105.09418; 
+https://doi.org/10.48550/arXiv.2209.14049",F
+6,Fausto,Giunchiglia,University of Trento (IT),Contact_7,url_LP_6,"https://doi.org/10.48550/arXiv.2105.09418;
+https://doi.org/10.1145/3569483; 
+https://doi.org/10.48550/arXiv.2207.06112",T
+7,Laura,Riscica,University of Trento (IT),Contact_8,url_LP_7, https://doi.org/10.3390/biom11121744,F
+17,Yanchun ,Liang,Jilin University (CN),Contact_18,url_LP_17,https://doi.org/10.48550/arXiv.2108.11173 https://doi.org/10.48550/arXiv.2103.07173,T
+19,Luca,Cernuzzi,Universidad Católica Nuestra Señora de la Asunción (PY),Contact_20,url_LP_19,https://doi.org/10.48550/arXiv.2211.03009; https://doi.org/10.48550/arXiv.2107.13519,T
+20,Alethia ,Hume,Universidad Católica Nuestra Señora de la Asunción (PY),Contact_21,url_LP_20,https://doi.org/10.48550/arXiv.2211.03009,T
+22,Amarsanaa ,Ganbold,National University of Mongolia (MN),Contact_23,url_LP_22,https://doi.org/10.48550/arXiv.2211.03009 https://doi.org/10.48550/arXiv.2206.07615,T
+23,Shyam ,Diwakar,Amrita University (IN),Contact_24,url_LP_23,https://doi.org/10.48550/arXiv.2211.03009,T
+24,Fiona ,McNeill,Heriot-Watt University,Contact_25,url_LP_24,https://doi.org/10.1007/s11423-020-09839-5,T
+28,Khuyagbaatar ,Batsuren,University of Trento (IT),Contact_29,url_LP_28,"https://doi.org/10.48550/arXiv.2206.07615;
+https://doi.org/10.48550/arXiv.2204.05049",T
+29,Gabor ,Bella,University of Trento (IT),Contact_30,url_LP_29,"https://doi.org/10.48550/arXiv.2205.03608; 
+https://doi.org/10.48550/arXiv.2204.05049",T
+30,Ronald Chenu-Abente,Acosta,University of Trento (IT),Contact_31,url_LP_30,https://doi.org/10.1109/soca.2015.10,T
+31,Mattia,Zeni,University of Trento (IT),Contact_32,url_LP_31,"https://doi.org/10.48550/arXiv.2004.11940; 
+https://doi.org/10.1016/j.chb.2017.12.041",T
