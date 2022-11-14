@@ -1,0 +1,72 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/21733108-a67d-479c-85fa-b05cd70a03a7>
+        rdf:type  skos:ConceptScheme .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/b5fd5d95-9ff4-43e4-bfd3-679c6f96fe39>
+        rdf:type         skos:Concept ;
+        skos:definition  "Author of the Project dataset" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/21733108-a67d-479c-85fa-b05cd70a03a7> ;
+        skos:prefLabel   "Author" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/3f307457-663c-427f-8d1a-7f656f3e0d71>
+        rdf:type          dcat:Distribution ;
+        dct:format        "csv" ;
+        dct:identifier    "distribution_1" ;
+        dct:issued        "2019-11-14T16:39:11Z"^^xsd:dateTime ;
+        dct:language      "en" ;
+        dct:license       "https://www.apache.org/licenses/LICENSE-2.0"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/inception%20tables/Project.csv"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/inception%20tables/Project.csv"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/9a84a2aa-b5a3-4f8a-b7ff-02d249b3267d>
+        rdf:type  skos:ConceptScheme .
+
+<https://www.epos-eu.org/epos-dcat-ap#Agent/b7a4f3af-7bf3-4314-969d-ea6f0698a333>
+        rdf:type   foaf:Agent ;
+        dct:type   <https://www.epos-eu.org/epos-dcat-ap#Concept/b5fd5d95-9ff4-43e4-bfd3-679c6f96fe39> ;
+        foaf:name  "Alessandro Salvatore Raho" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/a3156037-3ad2-49f7-9c4f-99b2c9858abc>
+        rdf:type           dcat:Dataset ;
+        dct:description    "The dataset Project contains metadata about projects, following the iTelos methodology." ;
+        dct:identifier     "http://knowdive.disi.unitn.it/etype#Project"^^xsd:anyURI ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Agent/b7a4f3af-7bf3-4314-969d-ea6f0698a333> , <https://www.epos-eu.org/epos-dcat-ap#Agent/b6e891fa-083a-4242-adca-d1542140bd3f> ;
+        dct:title          "Project" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/3f307457-663c-427f-8d1a-7f656f3e0d71> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Agent/b6e891fa-083a-4242-adca-d1542140bd3f>
+        rdf:type   foaf:Agent ;
+        dct:type   <https://www.epos-eu.org/epos-dcat-ap#Concept/fefc2673-5b0f-459c-b397-86570394ad7b> ;
+        foaf:name  "Camilla Pelagalli" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/fefc2673-5b0f-459c-b397-86570394ad7b>
+        rdf:type         skos:Concept ;
+        skos:definition  "Author of the Project dataset" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/9a84a2aa-b5a3-4f8a-b7ff-02d249b3267d> ;
+        skos:prefLabel   "Author" .
