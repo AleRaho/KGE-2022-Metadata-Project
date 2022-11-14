@@ -1,0 +1,207 @@
+<http://localhost:8080/source/1> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Carlo" .
+<http://localhost:8080/source/Contact_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/1> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Corradini" .
+<http://localhost:8080/source/1> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/1> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "http://datascientia/livepeople/1" .
+<http://localhost:8080/source/1> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_1> .
+<http://localhost:8080/source/1> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+
+<http://localhost:8080/source/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/2> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Giorgio" .
+<http://localhost:8080/source/2> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "GlaxoSmithKline SpA (IT)" .
+<http://localhost:8080/source/2> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_2> .
+<http://localhost:8080/source/2> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Criscitelli" .
+<http://localhost:8080/source/2> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_2" .
+<http://localhost:8080/source/Contact_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/2> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+
+<http://localhost:8080/source/3> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_3" .
+<http://localhost:8080/source/3> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Anna" .
+<http://localhost:8080/source/3> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+<http://localhost:8080/source/3> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/3> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_3> .
+<http://localhost:8080/source/3> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Fetz" .
+<http://localhost:8080/source/Contact_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+
+<http://localhost:8080/source/Contact_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/4> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Carlotta" .
+<http://localhost:8080/source/4> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Neri" .
+<http://localhost:8080/source/4> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_4" .
+<http://localhost:8080/source/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/4> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/4> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+<http://localhost:8080/source/4> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_5> .
+
+<http://localhost:8080/source/6> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_7> .
+<http://localhost:8080/source/Contact_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/6> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/6> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Fausto" .
+<http://localhost:8080/source/6> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Giunchiglia" .
+<http://localhost:8080/source/6> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+<http://localhost:8080/source/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/6> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_6" .
+
+<http://localhost:8080/source/Contact_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/7> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/7> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+<http://localhost:8080/source/7> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_7" .
+<http://localhost:8080/source/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/7> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Riscica" .
+<http://localhost:8080/source/7> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_8> .
+<http://localhost:8080/source/7> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Laura" .
+
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_12" .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+<http://localhost:8080/source/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/Contact_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_13> .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Ali" .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Hamza" .
+
+<http://localhost:8080/source/13> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_14> .
+<http://localhost:8080/source/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/13> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/13> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+<http://localhost:8080/source/Contact_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/13> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_13" .
+<http://localhost:8080/source/13> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Frigo" .
+<http://localhost:8080/source/13> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Andre" .
+
+<http://localhost:8080/source/14> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+<http://localhost:8080/source/14> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_15> .
+<http://localhost:8080/source/14> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Krsmanovic" .
+<http://localhost:8080/source/14> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_14" .
+<http://localhost:8080/source/14> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Aleksa" .
+<http://localhost:8080/source/Contact_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/14> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+
+<http://localhost:8080/source/Contact_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/16> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (TN)" .
+<http://localhost:8080/source/16> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Xuanli" .
+<http://localhost:8080/source/16> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+<http://localhost:8080/source/16> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_17> .
+<http://localhost:8080/source/16> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Li" .
+<http://localhost:8080/source/16> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_16" .
+
+<http://localhost:8080/source/17> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_17" .
+<http://localhost:8080/source/17> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_18> .
+<http://localhost:8080/source/Contact_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/17> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Yanchun " .
+<http://localhost:8080/source/17> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Liang" .
+<http://localhost:8080/source/17> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "Jilin University (CN)" .
+<http://localhost:8080/source/17> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+
+<http://localhost:8080/source/Contact_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_20> .
+<http://localhost:8080/source/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_19" .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "Universidad Católica Nuestra Señora de la Asunción (PY)" .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Luca" .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Cernuzzi" .
+
+<http://localhost:8080/source/20> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "Universidad Católica Nuestra Señora de la Asunción (PY)" .
+<http://localhost:8080/source/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/20> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Hume" .
+<http://localhost:8080/source/20> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+<http://localhost:8080/source/Contact_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/20> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_21> .
+<http://localhost:8080/source/20> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_20" .
+<http://localhost:8080/source/20> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Alethia " .
+
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_22" .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_23> .
+<http://localhost:8080/source/Contact_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "National University of Mongolia (MN)" .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Amarsanaa " .
+<http://localhost:8080/source/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Ganbold" .
+
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+<http://localhost:8080/source/Contact_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_23" .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_24> .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Diwakar" .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Shyam " .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "Amrita University (IN)" .
+
+<http://localhost:8080/source/Contact_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/24> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Fiona " .
+<http://localhost:8080/source/24> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "McNeill" .
+<http://localhost:8080/source/24> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_24" .
+<http://localhost:8080/source/24> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+<http://localhost:8080/source/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/24> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "Heriot-Watt University" .
+<http://localhost:8080/source/24> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_25> .
+
+<http://localhost:8080/source/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_27> .
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+<http://localhost:8080/source/Contact_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_26" .
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Simone" .
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Bocca" .
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Mayukh" .
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_28> .
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Bagchi" .
+<http://localhost:8080/source/Contact_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_27" .
+<http://localhost:8080/source/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+
+<http://localhost:8080/source/28> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+<http://localhost:8080/source/28> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_28" .
+<http://localhost:8080/source/28> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Batsuren" .
+<http://localhost:8080/source/28> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_29> .
+<http://localhost:8080/source/28> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Khuyagbaatar " .
+<http://localhost:8080/source/Contact_29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/28> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+
+<http://localhost:8080/source/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/29> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_29" .
+<http://localhost:8080/source/29> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/29> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Gabor " .
+<http://localhost:8080/source/29> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_30> .
+<http://localhost:8080/source/Contact_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/29> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Bella" .
+<http://localhost:8080/source/29> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_31> .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_30" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Ronald Chenu-Abente" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Acosta" .
+<http://localhost:8080/source/Contact_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+
+<http://localhost:8080/source/Contact_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/31> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_32> .
+<http://localhost:8080/source/31> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Zeni" .
+<http://localhost:8080/source/31> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/31> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Mattia" .
+<http://localhost:8080/source/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/31> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "T" .
+<http://localhost:8080/source/31> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_31" .
+
+<http://localhost:8080/source/41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Community_Member> .
+<http://localhost:8080/source/41> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Affiliation> "University of Trento (IT)" .
+<http://localhost:8080/source/41> <http://knowdive.disi.unitn.it/etype#has_Contact> <http://localhost:8080/source/Contact_42> .
+<http://localhost:8080/source/41> <http://knowdive.disi.unitn.it/etype#has_Commuinty_Member_Partner> "F" .
+<http://localhost:8080/source/Contact_42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/41> <http://knowdive.disi.unitn.it/etype#has_Community_Member_People_Layer> "url_LP_41" .
+<http://localhost:8080/source/41> <http://knowdive.disi.unitn.it/etype#has_Community_Member_First_Name> "Alessandra" .
+<http://localhost:8080/source/41> <http://knowdive.disi.unitn.it/etype#has_Community_Member_Last_Name> "Morellini" .
+

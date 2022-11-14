@@ -1,0 +1,84 @@
+<http://localhost:8080/source/Contact_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_1> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "carlo.corradini@studenti.unitn.it" .
+<http://localhost:8080/source/Contact_1> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/carlo-corradini/" .
+
+<http://localhost:8080/source/Contact_2> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "criscitelli.giorgio@gks.com" .
+<http://localhost:8080/source/Contact_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+
+<http://localhost:8080/source/Contact_3> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "anna.fetz@studenti.unitn.it" .
+<http://localhost:8080/source/Contact_3> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/anna-fetz-676300183/" .
+<http://localhost:8080/source/Contact_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+
+<http://localhost:8080/source/Contact_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_5> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "carlotta.neri@studenti.unitn.it" .
+
+<http://localhost:8080/source/Contact_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_7> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "fausto.giunchiglia@unitn.it" .
+<http://localhost:8080/source/Contact_7> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/fausto-giunchiglia-662a8/" .
+
+<http://localhost:8080/source/Contact_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_8> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "laura.riscica@studenti.unitn.it" .
+<http://localhost:8080/source/Contact_8> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/laura-riscica-074ab9151/" .
+
+<http://localhost:8080/source/Contact_13> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "ali.hamza@studenti.unitn.it" .
+<http://localhost:8080/source/Contact_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+
+<http://localhost:8080/source/Contact_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_14> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "andre.frigo@studenti.unitn.it" .
+
+<http://localhost:8080/source/Contact_15> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "aleksa.krsmanovic@studenti.unitn.it" .
+<http://localhost:8080/source/Contact_15> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/krsmanovicc-aleksa/" .
+<http://localhost:8080/source/Contact_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+
+<http://localhost:8080/source/Contact_17> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "xuan.li@studenti.unitn.it" .
+<http://localhost:8080/source/Contact_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+
+<http://localhost:8080/source/Contact_18> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/yanchun-liang-914b9120/" .
+<http://localhost:8080/source/Contact_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+
+<http://localhost:8080/source/Contact_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_20> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/luca-cernuzzi-b70887/" .
+<http://localhost:8080/source/Contact_20> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "lcernuzz@uc.edu.py" .
+
+<http://localhost:8080/source/Contact_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_21> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "alethia.hume@uc.edu.py" .
+<http://localhost:8080/source/Contact_21> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/alethia-hume-b3b85738/" .
+
+<http://localhost:8080/source/Contact_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_23> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "amarsanaag@num.edu.mnn" .
+<http://localhost:8080/source/Contact_23> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/amarsanaag/" .
+
+<http://localhost:8080/source/Contact_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_24> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "shyam@amrita.edu" .
+
+<http://localhost:8080/source/Contact_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_25> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/fiona-mcneill-211343b/" .
+<http://localhost:8080/source/Contact_25> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "f.mcneill@hw.ac.uk" .
+
+<http://localhost:8080/source/Contact_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_27> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "simone.bocca@unitn.it" .
+<http://localhost:8080/source/Contact_27> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/simone-bocca/" .
+
+<http://localhost:8080/source/Contact_28> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "mayukh.bagchi@unitn.it" .
+<http://localhost:8080/source/Contact_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_28> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/mayukhbagchitrento/" .
+
+<http://localhost:8080/source/Contact_29> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "k.batsuren@unitn.it" .
+<http://localhost:8080/source/Contact_29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+
+<http://localhost:8080/source/Contact_30> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "gabor.bella@unitn.it" .
+<http://localhost:8080/source/Contact_30> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/gaborbella/" .
+<http://localhost:8080/source/Contact_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+
+<http://localhost:8080/source/Contact_31> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "chenu@disi.unitn.it" .
+<http://localhost:8080/source/Contact_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_31> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/ronald-chenu-abente/" .
+
+<http://localhost:8080/source/Contact_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_32> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/mzeni/" .
+<http://localhost:8080/source/Contact_32> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "mattia.zeni.1@unitn.it" .
+
+<http://localhost:8080/source/Contact_42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Contact> .
+<http://localhost:8080/source/Contact_42> <http://knowdive.disi.unitn.it/etype#has_Contact_e-mail> "alessandra.morellini@studenti.unitn.it" .
+<http://localhost:8080/source/Contact_42> <http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin> "https://www.linkedin.com/in/alessandramorellini/" .
+

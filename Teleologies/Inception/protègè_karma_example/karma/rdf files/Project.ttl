@@ -1,0 +1,240 @@
+<http://localhost:8080/source/Project_0> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "http://datascientia/liveproject/Project_0/livedata" .
+<http://localhost:8080/source/Project_0> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "http://datascientia.disi.unitn.it" .
+<http://localhost:8080/source/Project_0> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/6;%2019;%2020;%2022;%2023;%2024;%2017> .
+<http://localhost:8080/source/Project_0> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/Project_0> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "http://datascientia/liveproject/Project_0/livelanguage" .
+<http://localhost:8080/source/Project_0> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_1> .
+<http://localhost:8080/source/Project_0> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "http://datascientia/liveproject/Project_0/liveknowledge" .
+<http://localhost:8080/source/Project_0> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "DataScientia - a soon-to-be-established not-for-profit organization whose ultimate aim is the creation of a grass-roots community centered around the development and dissemination of a unitary knowledge-driven understanding of the people’s diversity, as it is represented by the data in the Internet." .
+<http://localhost:8080/source/6;%2019;%2020;%2022;%2023;%2024;%2017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_0> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/41> .
+<http://localhost:8080/source/Project_0> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "DataScientia" .
+<http://localhost:8080/source/Theme_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_2" .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_2> .
+<http://localhost:8080/source/1;%2016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/1;%2016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "22/12/2020" .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "https://carlocorradini.github.io/Trentino_Transportation/" .
+<http://localhost:8080/source/Project_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_2" .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "Repository for Trentino_Transportation data integration project" .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/1;%2016> .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Completion_Date> "27/01/2021" .
+<http://localhost:8080/source/Theme_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_License> "Apache License 2.0" .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/1;%2016> .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_2" .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "Trentino Transportation" .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Last_Update> "27/01/2021" .
+<http://localhost:8080/source/Project_1> <http://knowdive.disi.unitn.it/etype#has_Project_Distribution> "ttl; rdf; csv" .
+
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "https://clinicaltrials.gov/ct2/show/study/NCT04126213" .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_License> "CC BY-ND" .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Distribution> "tsv" .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/2> .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "RSV vaccine" .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_3" .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_3> .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "\nStudy of Safety, Reactogenicity and Immunogenicity of GlaxoSmithKline's (GSK)Respiratory Syncytial Virus (RSV)Maternal Unadjuvanted Vaccine in Healthy Pregnant Women (Aged 18 to 40 Years) and Their Infants" .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Last_Update> "14/05/2021" .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Completion_Date> "14/05/2021" .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/Project_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_3" .
+<http://localhost:8080/source/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/2> .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "05/11/2019" .
+<http://localhost:8080/source/Theme_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/Project_2> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_3" .
+
+<http://localhost:8080/source/Project_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/3> .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_4" .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_4" .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/3> .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "Project’s scope intersects the Event domain with the University Student Life within Trentino’s area." .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_4> .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_License> "Apache License 2.0" .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Completion_Date> "26/1/2022" .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_4" .
+<http://localhost:8080/source/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "Events in Trentino" .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Last_Update> "26/1/2022" .
+<http://localhost:8080/source/Theme_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "29/11/2021" .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "https://annafetz.github.io/" .
+<http://localhost:8080/source/Project_3> <http://knowdive.disi.unitn.it/etype#has_Project_Distribution> "ttl; rdf; csv" .
+<http://localhost:8080/source/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+
+<http://localhost:8080/source/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/4> .
+<http://localhost:8080/source/Project_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/4> .
+<http://localhost:8080/source/Theme_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "10/11/2022" .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Project_License> "Apache License 2.0" .
+<http://localhost:8080/source/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "DataScientia Web Portal" .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_5> .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "Repository for metadata data integration project" .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_5" .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Private" .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_5" .
+<http://localhost:8080/source/Project_5> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_5" .
+
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "Vitis OneGenE" .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "OneGene project is a joint effort of three research groups sharing their complementary expertise in the fields of biology, bioinformatics and computation and a common interest in understanding the secrets of life." .
+<http://localhost:8080/source/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_6" .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_License> "CC BY" .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_6" .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_6> .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/7> .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_Distribution> "csv" .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_6" .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "01/01/2013" .
+<http://localhost:8080/source/Theme_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/Project_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "http://ibdm.disi.unitn.it/download-2/" .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/7> .
+<http://localhost:8080/source/Project_6> <http://knowdive.disi.unitn.it/etype#has_Project_Last_Update> "12/10/2022" .
+
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_7" .
+<http://localhost:8080/source/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_7> .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/12> .
+<http://localhost:8080/source/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "Repository for Education In Trentino data integration project" .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "https://alihamzaunitn.github.io/kdi-educationtrentino/" .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/12> .
+<http://localhost:8080/source/Theme_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Distribution> "ttl; rdf; csv" .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Last_Update> "18/01/2022" .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_7" .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_License> "Apache License 2.0" .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Completion_Date> "18/01/2022" .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "Education In Trentino - Data Integration" .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "18/01/2022" .
+<http://localhost:8080/source/Project_7> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_7" .
+
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Last_Update> "24/12/2021" .
+<http://localhost:8080/source/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_8" .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "Trentino territory" .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/13> .
+<http://localhost:8080/source/Theme_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "Repository for Trentino territory data integration project" .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "24/11/2021" .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_8> .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "https://andrefrigo.github.io/Trentino-territory/" .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Completion_Date> "24/12/2021" .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Distribution> "ttl; rdf; csv" .
+<http://localhost:8080/source/Project_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_8" .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_License> "Apache License 2.0" .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_8" .
+<http://localhost:8080/source/Project_8> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/13> .
+
+<http://localhost:8080/source/Theme_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "https://askela-srk.github.io/EHS_integration/" .
+<http://localhost:8080/source/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "08/06/2022" .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_9> .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "Repository for EHS data integration project" .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_9" .
+<http://localhost:8080/source/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Distribution> "ttl; rdf; csv" .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_9" .
+<http://localhost:8080/source/Project_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Completion_Date> "09/06/2022" .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/14> .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "EHS_integration" .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_9" .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_Last_Update> "09/06/2022" .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/14> .
+<http://localhost:8080/source/Project_9> <http://knowdive.disi.unitn.it/etype#has_Project_License> "Apache License 2.0" .
+
+<http://localhost:8080/source/Project_10> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_10" .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/Project_10> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "01/2018" .
+<http://localhost:8080/source/Project_10> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/30> .
+<http://localhost:8080/source/Project_10> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Private" .
+<http://localhost:8080/source/Project_10> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "Academic Data Integration, Website data access, Competence representation, Evaluation, GDPR, Open Data" .
+<http://localhost:8080/source/Project_10> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/30> .
+<http://localhost:8080/source/Theme_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Project_10> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "DU@Trento production (Digital University)" .
+<http://localhost:8080/source/Project_10> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_10" .
+<http://localhost:8080/source/Project_10> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_10" .
+<http://localhost:8080/source/Project_10> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_10> .
+
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_11" .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_11" .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/29> .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Project_Last_Update> "02/08/2018" .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Project_License> "GNU Lesser General Public License v2.1" .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "2007" .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_11" .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "Multilingual and multi-domain semantic matching" .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "https://github.com/s-match/" .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/29> .
+<http://localhost:8080/source/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "Research and develop applications for the matching of schemas, ontologies, and classifications in multiple languages and for multiple domains." .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_11> .
+<http://localhost:8080/source/Project_11> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/Theme_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "http://ukc.disi.unitn.it/index.php/monwordnet/" .
+<http://localhost:8080/source/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "4/12/2019" .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "The Mongolian Wordnet is a freely available, lexico-semantic resource for the Mongolian language" .
+<http://localhost:8080/source/Project_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Theme_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/28> .
+<http://localhost:8080/source/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_12" .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_12> .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "The Mongolian Wordnet" .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_Distribution> "tsv" .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_Last_Update> "14/11/2021" .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_12" .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_License> "CC BY-SA 4.0" .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_12" .
+<http://localhost:8080/source/Project_12> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/28> .
+
+<http://localhost:8080/source/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Author> .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Author> <http://localhost:8080/source/31> .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Project_Title> "SmartSociety" .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Theme> <http://localhost:8080/source/Theme_13> .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Project_Description> "Development of a science for computational humanism, and the design and testing of cooperative economy applications able to combine human agency with artificial intelligence" .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Project_Source> "http://www.smart-society-project.eu/" .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Project_Language_Layer> "LL_13" .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Maintainer> <http://localhost:8080/source/31> .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Project_Completion_Date> "2017" .
+<http://localhost:8080/source/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Maintainer> .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Project_Data_Layer> "DL_13" .
+<http://localhost:8080/source/Project_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Project> .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Project_Creation_Date> "2013" .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Project_Access> "Public" .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Project_Knowledge_Layer> "KL_13" .
+<http://localhost:8080/source/Theme_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Theme> .
+<http://localhost:8080/source/Project_13> <http://knowdive.disi.unitn.it/etype#has_Project_Last_Update> "2017" .
+

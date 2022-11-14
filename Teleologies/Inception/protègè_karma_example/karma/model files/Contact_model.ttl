@@ -1,0 +1,268 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1ghot3dn5x1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "Contact.csv" ;
+	km-dev:modelPublicationTime "1668356880101"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"Linkedin\"}],[{\"columnName\":\"Contact_ID\"}],[{\"columnName\":\"e-mail\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"Linkedin\"}],[{\"columnName\":\"Contact_ID\"}],[{\"columnName\":\"e-mail\"}]]" ;
+	km-dev:hasModelLabel "Contact.csv" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Contact_ID\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Contact\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Contact1\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Contact\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Contact1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:Contact1 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Contact_ID\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Contact_ID\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"e-mail\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Contact\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Contact1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_Contact_e-mail\",
+                    \"DomainLabel\": \"etype:Contact1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"e-mail\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"e-mail\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Linkedin\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Contact\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Contact1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_Contact_Linkedin\",
+                    \"DomainLabel\": \"etype:Contact1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Linkedin\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Linkedin\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    }
+]""" .
+
+km-dev:TriplesMap_47cc5d63-0b72-44d0-a110-f20ad62f4140 a rr:TriplesMap .
+
+_:node1ghot3dn5x1 km-dev:hasTriplesMap km-dev:TriplesMap_47cc5d63-0b72-44d0-a110-f20ad62f4140 .
+
+km-dev:TriplesMap_47cc5d63-0b72-44d0-a110-f20ad62f4140 km-dev:isPartOfMapping _:node1ghot3dn5x1 .
+
+_:node1ghot3dn5x2 rr:tableName "Contact.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1ghot3dn5x1 .
+
+_:node1ghot3dn5x1 km-dev:hasLogicalTable _:node1ghot3dn5x2 .
+
+km-dev:TriplesMap_47cc5d63-0b72-44d0-a110-f20ad62f4140 rr:logicalTable _:node1ghot3dn5x2 ;
+	rr:subjectMap _:node1ghot3dn5x3 .
+
+_:node1ghot3dn5x1 km-dev:hasSubjectMap _:node1ghot3dn5x3 .
+
+_:node1ghot3dn5x3 km-dev:isPartOfMapping _:node1ghot3dn5x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Contact1" ;
+	rr:class etype:Contact ;
+	rr:template "{Contact_ID}" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_5bfb4e9f-cfc1-403d-8706-6686af80478a rr:predicate etype:has_Contact_e-mail .
+
+_:node1ghot3dn5x4 rr:column "e-mail" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ghot3dn5x1 .
+
+_:node1ghot3dn5x1 km-dev:hasObjectMap _:node1ghot3dn5x4 .
+
+km-dev:PredicateObjectMap_5bfb4e9f-cfc1-403d-8706-6686af80478a rr:objectMap _:node1ghot3dn5x4 .
+
+km-dev:TriplesMap_47cc5d63-0b72-44d0-a110-f20ad62f4140 rr:predicateObjectMap km-dev:PredicateObjectMap_5bfb4e9f-cfc1-403d-8706-6686af80478a .
+
+km-dev:PredicateObjectMap_5bfb4e9f-cfc1-403d-8706-6686af80478a a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ghot3dn5x1 .
+
+_:node1ghot3dn5x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_5bfb4e9f-cfc1-403d-8706-6686af80478a .
+
+km-dev:PredicateObjectMap_53ff1c57-1c47-4041-9bcf-300171197724 rr:predicate etype:has_Contact_Linkedin .
+
+_:node1ghot3dn5x5 rr:column "Linkedin" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ghot3dn5x1 .
+
+_:node1ghot3dn5x1 km-dev:hasObjectMap _:node1ghot3dn5x5 .
+
+km-dev:PredicateObjectMap_53ff1c57-1c47-4041-9bcf-300171197724 rr:objectMap _:node1ghot3dn5x5 .
+
+km-dev:TriplesMap_47cc5d63-0b72-44d0-a110-f20ad62f4140 rr:predicateObjectMap km-dev:PredicateObjectMap_53ff1c57-1c47-4041-9bcf-300171197724 .
+
+km-dev:PredicateObjectMap_53ff1c57-1c47-4041-9bcf-300171197724 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ghot3dn5x1 .
+
+_:node1ghot3dn5x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_53ff1c57-1c47-4041-9bcf-300171197724 .

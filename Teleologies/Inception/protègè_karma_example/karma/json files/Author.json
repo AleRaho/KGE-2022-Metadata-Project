@@ -1,0 +1,22 @@
+[
+ {"Person_ID":"1","First_Name":"Carlo","Last_Name":"Corradini","Affiliation":"University of Trento (IT)","Contact":"Contact_1","Partner":"F","People Layer":"http://datascientia/livepeople/1","Project":"Project_1" },
+ {"Person_ID":"2","First_Name":"Giorgio","Last_Name":"Criscitelli","Affiliation":"GlaxoSmithKline SpA (IT)","Contact":"Contact_2","Partner":"F","People Layer":"url_LP_2","Project":"Project_2" },
+ {"Person_ID":"3","First_Name":"Anna","Last_Name":"Fetz","Affiliation":"University of Trento (IT)","Contact":"Contact_3","Partner":"F","People Layer":"url_LP_3","Project":"Project_3" },
+ {"Person_ID":"4","First_Name":"Carlotta","Last_Name":"Neri","Affiliation":"University of Trento (IT)","Contact":"Contact_5","Partner":"F","People Layer":"url_LP_4","Project":"Project_5" },
+ {"Person_ID":"6","First_Name":"Fausto","Last_Name":"Giunchiglia","Affiliation":"University of Trento (IT)","Contact":"Contact_7","Partner":"T","People Layer":"url_LP_6","Project":"Project_0" },
+ {"Person_ID":"7","First_Name":"Laura","Last_Name":"Riscica","Affiliation":"University of Trento (IT)","Contact":"Contact_8","Partner":"F","People Layer":"url_LP_7","Project":"Project_6" },
+ {"Person_ID":"12","First_Name":"Ali","Last_Name":"Hamza","Affiliation":"University of Trento (IT)","Contact":"Contact_13","Partner":"F","People Layer":"url_LP_12","Project":"Project_7" },
+ {"Person_ID":"13","First_Name":"Andre","Last_Name":"Frigo","Affiliation":"University of Trento (IT)","Contact":"Contact_14","Partner":"F","People Layer":"url_LP_13","Project":"Project_8" },
+ {"Person_ID":"14","First_Name":"Aleksa","Last_Name":"Krsmanovic","Affiliation":"University of Trento (IT)","Contact":"Contact_15","Partner":"F","People Layer":"url_LP_14","Project":"Project_9" },
+ {"Person_ID":"16","First_Name":"Xuanli","Last_Name":"Li","Affiliation":"University of Trento (TN)","Contact":"Contact_17","Partner":"F","People Layer":"url_LP_16","Project":"Project_1" },
+ {"Person_ID":"17","First_Name":"Yanchun ","Last_Name":"Liang","Affiliation":"Jilin University (CN)","Contact":"Contact_18","Partner":"T","People Layer":"url_LP_17","Project":"Project_0" },
+ {"Person_ID":"19","First_Name":"Luca","Last_Name":"Cernuzzi","Affiliation":"Universidad Católica Nuestra Señora de la Asunción (PY)","Contact":"Contact_20","Partner":"T","People Layer":"url_LP_19","Project":"Project_0" },
+ {"Person_ID":"20","First_Name":"Alethia ","Last_Name":"Hume","Affiliation":"Universidad Católica Nuestra Señora de la Asunción (PY)","Contact":"Contact_21","Partner":"T","People Layer":"url_LP_20","Project":"Project_0" },
+ {"Person_ID":"22","First_Name":"Amarsanaa ","Last_Name":"Ganbold","Affiliation":"National University of Mongolia (MN)","Contact":"Contact_23","Partner":"T","People Layer":"url_LP_22","Project":"Project_0" },
+ {"Person_ID":"23","First_Name":"Shyam ","Last_Name":"Diwakar","Affiliation":"Amrita University (IN)","Contact":"Contact_24","Partner":"T","People Layer":"url_LP_23","Project":"Project_0" },
+ {"Person_ID":"24","First_Name":"Fiona ","Last_Name":"McNeill","Affiliation":"Heriot-Watt University","Contact":"Contact_25","Partner":"T","People Layer":"url_LP_24","Project":"Project_0" },
+ {"Person_ID":"28","First_Name":"Khuyagbaatar ","Last_Name":"Batsuren","Affiliation":"University of Trento (IT)","Contact":"Contact_29","Partner":"T","People Layer":"url_LP_28","Project":"Project_12" },
+ {"Person_ID":"29","First_Name":"Gabor ","Last_Name":"Bella","Affiliation":"University of Trento (IT)","Contact":"Contact_30","Partner":"T","People Layer":"url_LP_29","Project":"Project_11" },
+ {"Person_ID":"30","First_Name":"Ronald Chenu-Abente","Last_Name":"Acosta","Affiliation":"University of Trento (IT)","Contact":"Contact_31","Partner":"T","People Layer":"url_LP_30","Project":"Project_10" },
+ {"Person_ID":"31","First_Name":"Mattia","Last_Name":"Zeni","Affiliation":"University of Trento (IT)","Contact":"Contact_32","Partner":"T","People Layer":"url_LP_31","Project":"Project_13" }
+]
