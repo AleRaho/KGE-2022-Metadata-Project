@@ -1,0 +1,34 @@
+Person_ID,Name,Affiliation,Publication,Contact,Role,Data_Scientia
+Person_1,Simone Bocca,University of Trento (IT),https://doi.org/10.48550/arXiv.2105.09432,simone.bocca@unitn.it,PhD Student,https://ds.datascientia.eu
+Person_1,Simone Bocca,University of Trento (IT),https://doi.org/10.48550/arXiv.2105.09418,simone.bocca@unitn.it,PhD Student,https://ds.datascientia.eu
+Person_1,Simone Bocca,University of Trento (IT),https://doi.org/10.48550/arXiv.2209.14049,simone.bocca@unitn.it,PhD Student,https://ds.datascientia.eu
+Person_2,Mayukh Bagchi,University of Trento (IT),https://doi.org/10.48550/arXiv.2105.09432,mayukh.bachi@unitn.it,PhD Student,https://ds.datascientia.eu
+Person_2,Mayukh Bagchi,University of Trento (IT),https://doi.org/10.48550/arXiv.2105.09418,mayukh.bachi@unitn.it,PhD Student,https://ds.datascientia.eu
+Person_2,Mayukh Bagchi,University of Trento (IT),https://doi.org/10.48550/arXiv.2209.14049,mayukh.bachi@unitn.it,PhD Student,https://ds.datascientia.eu
+Person_3,Carlo Corradini,University of Trento (IT),,carlo.corradini@studenti.unitn.it,Student,https://ds.datascientia.eu
+Person_4,Xuanli Li,University of Trento (IT),,xuanli.li@studenti.unitn.it,Student,https://ds.datascientia.eu
+Person_5,Trentino Trasporti SpA,Trentino Trasporti SpA,,info@trentinotrasporti.it,Third-Party,https://ds.datascientia.eu
+Person_6,Servizio Trasporti pubblici,Servizio Trasporti pubblici,,bikesharing@provincia.tn.it,Third-Party,https://ds.datascientia.eu
+Person_7,Google Transit,Google LLC,,https://support.google.com/transitpartners/gethelp,Third-Party,https://ds.datascientia.eu
+Person_8,Fausto Giunchiglia,University of Trento (IT),https://doi.org/10.48550/arXiv.2105.09432,fausto.giunchiglia@unitn.it,Full Professor,https://ds.datascientia.eu
+Person_8,Fausto Giunchiglia,University of Trento (IT),https://doi.org/10.48550/arXiv.2004.01392,fausto.giunchiglia@unitn.it,Full Professor,https://ds.datascientia.eu
+Person_8,Fausto Giunchiglia,University of Trento (IT),https://doi.org/10.48550/arXiv.2211.03009,fausto.giunchiglia@unitn.it,Full Professor,https://ds.datascientia.eu
+Person_8,Fausto Giunchiglia,University of Trento (IT),https://doi.org/10.48550/arXiv.2105.09418,fausto.giunchiglia@unitn.it,Full Professor,https://ds.datascientia.eu
+Person_8,Fausto Giunchiglia,University of Trento (IT),https://doi.org/10.48550/arXiv.2202.12700,fausto.giunchiglia@unitn.it,Full Professor,https://ds.datascientia.eu
+Person_8,Fausto Giunchiglia,University of Trento (IT),https://doi.org/10.48550/arXiv.2205.03608,fausto.giunchiglia@unitn.it,Full Professor,https://ds.datascientia.eu
+Person_8,Fausto Giunchiglia,University of Trento (IT),https://doi.org/10.48550/arXiv.2209.14049,fausto.giunchiglia@unitn.it,Full Professor,https://ds.datascientia.eu
+Person_9,Gábor Bella,University of Trento (IT),https://doi.org/10.48550/arXiv.2205.03608,gabor.bella@unitn.it,Assistant Professor,https://ds.datascientia.eu
+Person_10,Ivano Bison,University of Trento (IT),https://doi.org/10.48550/arXiv.2004.01392,ivano.bison@unitn.it,Full Professor,https://ds.datascientia.eu
+Person_10,Ivano Bison,University of Trento (IT),https://doi.org/10.48550/arXiv.2202.12700,ivano.bison@unitn.it,Full Professor,https://ds.datascientia.eu
+Person_10,Ivano Bison,University of Trento (IT),https://doi.org/10.48550/arXiv.2211.03009,ivano.bison@unitn.it,Full Professor,https://ds.datascientia.eu
+Person_11,Enrico Bignotti,Infeurope SA,https://doi.org/10.48550/arXiv.2004.01392,,IT Consultant,https://ds.datascientia.eu
+Person_12,Mattia Zeni,Databricks Inc.,https://doi.org/10.48550/arXiv.2004.01392,,Solutions Architect,https://ds.datascientia.eu
+Person_13,Elisa Gobbi,,https://doi.org/10.48550/arXiv.2004.01392,,,https://ds.datascientia.eu
+Person_14,Matteo Busso,University of Trento (IT),https://doi.org/10.48550/arXiv.2202.12700,matteo.busso@unitn.it,PhD Student,https://ds.datascientia.eu
+Person_14,Matteo Busso,University of Trento (IT),https://doi.org/10.48550/arXiv.2211.03009,matteo.busso@unitn.it,PhD Student,https://ds.datascientia.eu
+Person_15,Marcelo Dario Rodas Britez,University of Trento (IT),https://doi.org/10.48550/arXiv.2211.03009,marcelo.rodasbritez@unitn.it,Research Fellowship Holder,https://ds.datascientia.eu
+Person_16,Ronald Chenu-Abente Acosta,University of Trento (IT),https://doi.org/10.48550/arXiv.2211.03009,r.chenuabenteacosta@unitn.it,Guest,https://ds.datascientia.eu
+Person_17,Aliaksandr Autayeu,University of Trento (IT),,aliaksandr@autayeu.com,Researcher,https://ds.datascientia.eu
+Person_18,David Leoni,,,,,https://ds.datascientia.eu
+Person_19,Vincenzo Maltese,University of Trento (IT),http://dx.doi.org/10.1080/01639374.2016.1245231,vincenzo.maltese@unitn.it,Head of UniTN Digital Services for Research,https://ds.datascientia.eu
+Person_0,DataScientia,University of Trento (IT),,http://datascientia.disi.unitn.it/contact-us/,Organisation,https://ds.datascientia.eu
