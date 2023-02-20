@@ -22,7 +22,9 @@ ontology and teleology, thus giving the user an unprecedented insight into the c
 and relational data shaping behind the actual data values representation.
 
 • **Data layer:** any dataset which consists of data in some format, instantiating the KG’s struc-
-ture (entities and attributes). If users are interested in expanding data resources, they can
+ture (entities and attributes).
+
+If users are interested in expanding data resources, they can
 use the already existing schemas as meaningful anchors, without loosing data quality.
 Data Scientia users should have access to both projects and their layers and decide what to
 re-use, modify or produce to meet the purpose they have in mind. Projects should be linked
