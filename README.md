@@ -1,4 +1,6 @@
-# KGE 2022: Metadata Project (By Pelagalli Camilla & Raho Alessandro Salvatore)
+Authors: Pelagalli Camilla and Raho Alessandro Salvatore.
+
+This project was created for the 2022/2023 Knowledge Graph Engineering class of Prof. Fausto Giunchiglia at UniTn. 
 
 ### Purpose and Domain of Interest
 Our project context is an Open Data environment, where anyone is free to use, re-use or
@@ -7,7 +9,7 @@ Data Scientia is the concrete representation of this environment: an under-costr
 web portal that allows users to explore different kind of datasets.
 Data Scientia’s main goal is to gather all projects that result from Knowl-
 edge Graph Engineering (KGE) processes following the iTelos methodology
-([https://doi.org/10.48550/arxiv.2105.09418]). Each project can contain multiple datasets,
+[link](https://doi.org/10.48550/arxiv.2105.09418). Each project can contain multiple datasets,
 each belonging to a different informational layer. For each project, three main layers should be
 identified:
 • Language Layer: any linguistic resource - property or dataset about languages and terms
