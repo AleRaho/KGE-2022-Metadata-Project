@@ -1,0 +1,34 @@
+# KGE_Project.csv
+
+## Add Column
+
+## Add Node/Literal
+
+## PyTransforms
+
+## Selections
+
+## Semantic Types
+| Column | Property | Class |
+|  ----- | -------- | ----- |
+| _Access_ | `etype:dct_accessRights_GID-28487` | `etype:ds_KGE_Project_GID-3000171`|
+| _Author_ | `uri` | `etype:schema_Person_GID-3000201`|
+| _Completion_Date_ | `etype:dct_dateAccepted_GID-300030` | `etype:ds_KGE_Project_GID-3000171`|
+| _Creation_Date_ | `etype:dct_issued_GID-300029_Type-300016` | `etype:ds_KGE_Project_GID-3000171`|
+| _Dataset_ | `uri` | `etype:ds_Dataset_GID-3000181`|
+| _Description_ | `etype:dct_description_GID-3_Type-300016` | `etype:ds_KGE_Project_GID-3000171`|
+| _Langugae_ | `etype:dct_language_GID-33764_Type-300016` | `etype:ds_KGE_Project_GID-3000171`|
+| _Last_Update_ | `etype:dct_modified_GID-300028` | `etype:ds_KGE_Project_GID-3000171`|
+| _Layer_ | `etype:ds_layer_GID-300032_Type-300017` | `etype:ds_KGE_Project_GID-3000171`|
+| _License_ | `etype:dct_license_GID-35108_Type-300016` | `etype:ds_KGE_Project_GID-3000171`|
+| _Project_ID_ | `uri` | `etype:ds_KGE_Project_GID-3000171`|
+| _Purpose_ | `etype:ds_purpose_GID-32512` | `etype:ds_KGE_Project_GID-3000171`|
+| _Title_ | `etype:dct_title_GID-34045_Type-300016` | `etype:ds_KGE_Project_GID-3000171`|
+| _Web_Page_ | `etype:dcat_landingPage_GID-34124` | `etype:ds_KGE_Project_GID-3000171`|
+
+
+## Links
+| From | Property | To |
+|  --- | -------- | ---|
+| `etype:ds_KGE_Project_GID-3000171` | `etype:dct_publisher_GID-300025_Type-300016` | `etype:schema_Person_GID-3000201`|
+| `etype:ds_KGE_Project_GID-3000171` | `etype:dcat_dataset_GID-300024_Type-300016` | `etype:ds_Dataset_GID-3000181`|

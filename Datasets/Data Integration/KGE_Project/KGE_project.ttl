@@ -1,0 +1,34 @@
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_KGE_Project_GID-300017> .
+<http://knowdive.disi.unitn.it/tables/Dataset_C_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#ds_purpose_GID-32512> "With the development of big data technology and cloud storage technology, we are in an era of rapid increase in information, with countless data or knowledge. How to manage these data and achieve more efficient sharing and utilization is a filed that many researchers are exploring, that is, to fulfill the integration of knowledge and data in specific, rather than leaving information be unorganized. This report focuses on integrating all the public transportation as well as sharing vehicles information within Trentino so that the more complete transport information system could help people make a better decision and save time or money as much as possible. Specifically, we pay attention to the application of vehicles that GTFS has not covered, such as sharing bikes, sharing cars, and so on so forth, which is added to the system and then residents have more choices to determine paths." .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#ds_layer_GID-300032_Type-300017> "Data; Knowledge; Language" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_3> .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "Repository for Trentino_Transportation data integration project" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Trentino Transportation" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dcat_landingPage_GID-34124> "https://carlocorradini.github.io/Trentino_Transportation/" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_C_6> .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_accessRights_GID-28487> "Public" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_dateAccepted_GID-300030> "2021-01-27" .
+<http://knowdive.disi.unitn.it/tables/Person_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2020-12-22" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "Apache License 2.0" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_modified_GID-300028> "2021-01-27" .
+
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_KGE_Project_GID-300017> .
+<http://knowdive.disi.unitn.it/tables/Dataset_C_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#ds_purpose_GID-32512> "With the development of big data technology and cloud storage technology, we are in an era of rapid increase in information, with countless data or knowledge. How to manage these data and achieve more efficient sharing and utilization is a filed that many researchers are exploring, that is, to fulfill the integration of knowledge and data in specific, rather than leaving information be unorganized. This report focuses on integrating all the public transportation as well as sharing vehicles information within Trentino so that the more complete transport information system could help people make a better decision and save time or money as much as possible. Specifically, we pay attention to the application of vehicles that GTFS has not covered, such as sharing bikes, sharing cars, and so on so forth, which is added to the system and then residents have more choices to determine paths." .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#ds_layer_GID-300032_Type-300017> "Data; Knowledge; Language" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_4> .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "Repository for Trentino_Transportation data integration project" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Trentino Transportation" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dcat_landingPage_GID-34124> "https://carlocorradini.github.io/Trentino_Transportation/" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_C_6> .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_accessRights_GID-28487> "Public" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_dateAccepted_GID-300030> "2021-01-27" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2020-12-22" .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "Apache License 2.0" .
+<http://knowdive.disi.unitn.it/tables/Person_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://knowdive.disi.unitn.it/etype#dct_modified_GID-300028> "2021-01-27" .
+
