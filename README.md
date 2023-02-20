@@ -51,7 +51,7 @@ informational layers. To overcome them, we have designed a possible and plausibl
 structure for the Data Scientia web portal, by defining its Knowledge Graph.
 
 The following image shows our final EG obtained using Karma Linker and GraphDB.
-![alt text](https://github.com/AleRaho/KGE-2022-Metadata-Project/blob/main/Final_EG.png)
+![alt text](https://github.com/AleRaho/KGE-2022-Metadata-Project/blob/main/Final_EG.png?raw=true)
 
 You can explore deeper our work in our [public repository](https://github.com/AleRaho/KGE-2022-Metadata-Project).
 
