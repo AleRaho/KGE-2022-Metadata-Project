@@ -49,4 +49,4 @@ informational layers. To overcome them, we have designed a possible and plausibl
 structure for the Data Scientia web portal, by defining its Knowledge Graph.
 
 You can explore deeper our work in our [public repository](https://github.com/AleRaho/KGE-2022-Metadata-Project).
-In our [Project Report](), stored in the git repository as well, you will find a detailed step-by-step description in which we tried to explain why this topic is so important and impactfull and how we menaged to produce our KG using the iTelos metodology. 
+In our [Project Report](https://github.com/AleRaho/KGE-2022-Metadata-Project/tree/main/Documentation), stored in the git repository as well, you will find a detailed step-by-step description in which we tried to explain why this topic is so important and impactfull and how we menaged to produce our KG using the iTelos metodology. 
