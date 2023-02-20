@@ -36,12 +36,12 @@ directly, without having to go through whole projects at the risk of stepping aw
 purpose. Metadata reduces search time and space: they allow users to skip to what is essential
 to them, making the Data Scientia successful and meaningful.
 Our project purpose can now be stated unambiguously:
+
 *A KG supporting the Data Scientia web portal’s users to find the most suitable resource
 for their needs, as well as all the resources linked by the one searched.*
-To achieve the project objective, we have analyzed existing KGE Projects and Data Sci-
-entia resources and projects, which were our data resources. We have extracted the
-fundamental layered view of datasets from KGE Projects and we have outlined Data Scientia
-main entity types, along with their properties, by carefully examining the web portal and through
+
+To achieve the project objective, we have analyzed existing KGE Projects and Data Scientia resources and projects, which were our data resources. We have extracted the
+fundamental layered view of datasets from KGE Projects and we have outlined Data Scientia main entity types, along with their properties, by carefully examining the web portal and through
 a Data Scientia top level description and requirements given to us by the domain expert. The
 latter helped us understanding the preliminary boundaries of our schema resources, by stating
 the present structure of the portal with its shortcomings: the absence of linked resources and
