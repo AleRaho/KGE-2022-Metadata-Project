@@ -1,0 +1,36 @@
+# Application_Project.csv
+
+## Add Column
+
+## Add Node/Literal
+
+## PyTransforms
+
+## Selections
+
+## Semantic Types
+| Column | Property | Class |
+|  ----- | -------- | ----- |
+| _Access_ | `etype:dct_accessRights_GID-28487` | `etype:ds_Application_Project_GID-3000141`|
+| _Affiliation_ | `etype:schema_affiliation_GID-74059_Type-300013` | `etype:ds_Application_Project_GID-3000141`|
+| _Author_ | `uri` | `etype:schema_Person_GID-3000201`|
+| _Completion_Date_ | `etype:dct_dateAccepted_GID-300030` | `etype:ds_Application_Project_GID-3000141`|
+| _Creation_Date_ | `etype:dct_issued_GID-300029_Type-300016` | `etype:ds_Application_Project_GID-3000141`|
+| _Dataset_ | `uri` | `etype:ds_Dataset_GID-3000181`|
+| _Description_ | `etype:dct_description_GID-3_Type-300016` | `etype:ds_Application_Project_GID-3000141`|
+| _Langugae_ | `etype:dct_language_GID-33764_Type-300016` | `etype:ds_Application_Project_GID-3000141`|
+| _Last_Update_ | `etype:dct_modified_GID-300028` | `etype:ds_Application_Project_GID-3000141`|
+| _License_ | `etype:dct_license_GID-35108_Type-300016` | `etype:ds_Application_Project_GID-3000141`|
+| _Programming_Language_ | `etype:doap_programming-language_GID-300026_Type-300014` | `etype:ds_Application_Project_GID-3000141`|
+| _Project_ID_ | `uri` | `etype:ds_Application_Project_GID-3000141`|
+| _Purpose_ | `etype:ds_purpose_GID-32512` | `etype:ds_Application_Project_GID-3000141`|
+| _Release_ | `etype:doap_release_GID-300031_Type-300014` | `etype:ds_Application_Project_GID-3000141`|
+| _Title_ | `etype:dct_title_GID-34045_Type-300016` | `etype:ds_Application_Project_GID-3000141`|
+| _Web_Page_ | `etype:dcat_landingPage_GID-34124` | `etype:ds_Application_Project_GID-3000141`|
+
+
+## Links
+| From | Property | To |
+|  --- | -------- | ---|
+| `etype:ds_Application_Project_GID-3000141` | `etype:dct_publisher_GID-300025_Type-300016` | `etype:schema_Person_GID-3000201`|
+| `etype:ds_Application_Project_GID-3000141` | `etype:dcat_dataset_GID-300024_Type-300016` | `etype:ds_Dataset_GID-3000181`|

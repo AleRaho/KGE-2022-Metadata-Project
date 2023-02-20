@@ -1,0 +1,26 @@
+# Person.csv
+
+## Add Column
+
+## Add Node/Literal
+
+## PyTransforms
+
+## Selections
+
+## Semantic Types
+| Column | Property | Class |
+|  ----- | -------- | ----- |
+| _Affiliation_ | `etype:schema_affiliation_GID-74059_Type-300013` | `etype:schema_Person_GID-3000201`|
+| _Contact_ | `etype:schema_email_GID-45803_Type-300020` | `etype:schema_Person_GID-3000201`|
+| _Data_Scientia_ | `uri` | `etype:ds_Data_Scientia_GID-3000191`|
+| _Name_ | `etype:schema_name_GID-2_Type-300020` | `etype:schema_Person_GID-3000201`|
+| _Person_ID_ | `uri` | `etype:schema_Person_GID-3000201`|
+| _Publication_ | `etype:schema_author_GID-108806_Type-300020` | `etype:schema_Person_GID-3000201`|
+| _Role_ | `etype:schema_hasOccupation_GID-3742_Type-300020` | `etype:schema_Person_GID-3000201`|
+
+
+## Links
+| From | Property | To |
+|  --- | -------- | ---|
+| `etype:schema_Person_GID-3000201` | `etype:schema_worksFor_GID-112900_Type-300020` | `etype:ds_Data_Scientia_GID-3000191`|

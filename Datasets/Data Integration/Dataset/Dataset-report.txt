@@ -1,0 +1,47 @@
+# Dataset.csv
+
+## Add Column
+
+## Add Node/Literal
+
+## PyTransforms
+#### _Language_Resource_
+From column: _Language_Resource_
+``` python
+return ""
+```
+
+
+## Selections
+
+## Semantic Types
+| Column | Property | Class |
+|  ----- | -------- | ----- |
+| _Author_ | `uri` | `etype:schema_Person_GID-3000201`|
+| _Completion_Date_ | `etype:dct_dateAccepted_GID-300030` | `etype:ds_Dataset_GID-3000181`|
+| _Creation_Date_ | `etype:dct_issued_GID-300029_Type-300016` | `etype:ds_Dataset_GID-3000181`|
+| _Data_Resource_ | `uri` | `etype:ds_Dataset_GID-3000183`|
+| _Dataset_ID_ | `uri` | `etype:ds_Dataset_GID-3000181`|
+| _Description_ | `etype:dct_description_GID-3_Type-300016` | `etype:ds_Dataset_GID-3000181`|
+| _Format _ | `etype:dct_format_GID-300027_Type-300018` | `etype:ds_Dataset_GID-3000181`|
+| _Geography_ | `etype:dct_spatial_GID-45911_Type-300018` | `etype:ds_Dataset_GID-3000181`|
+| _Knowledge_Resource_ | `uri` | `etype:ds_Dataset_GID-3000182`|
+| _Language_ | `etype:dct_language_GID-33764_Type-300016` | `etype:ds_Dataset_GID-3000181`|
+| _Language_Resource_ | `uri` | `etype:ds_Dataset_GID-3000184`|
+| _Last_Update_ | `etype:dct_modified_GID-300028` | `etype:ds_Dataset_GID-3000181`|
+| _Layer_ | `etype:ds_layer_GID-300032_Type-300017` | `etype:ds_Dataset_GID-3000181`|
+| _License _ | `etype:dct_license_GID-35108_Type-300016` | `etype:ds_Dataset_GID-3000181`|
+| _Project_ | `uri` | `etype:ds_Project1`|
+| _Theme_ | `etype:dcat_theme_GID-32585_Type-300018` | `etype:ds_Dataset_GID-3000181`|
+| _Title_ | `etype:dct_title_GID-34045_Type-300016` | `etype:ds_Dataset_GID-3000181`|
+| _Web_Page_ | `etype:dcat_landingPage_GID-34124` | `etype:ds_Dataset_GID-3000181`|
+
+
+## Links
+| From | Property | To |
+|  --- | -------- | ---|
+| `etype:ds_Dataset_GID-3000181` | `etype:ds_points_Dataset_At_Language_Resource_GID-300023_Type-300018` | `etype:ds_Dataset_GID-3000184`|
+| `etype:ds_Dataset_GID-3000181` | `etype:dct_isPartOf_GID-112553_Type-300018` | `etype:ds_Project1`|
+| `etype:ds_Dataset_GID-3000181` | `etype:ds_points_Dataset_At_Knowledge_Resource_GID-300022_Type-300018` | `etype:ds_Dataset_GID-3000182`|
+| `etype:ds_Dataset_GID-3000181` | `etype:dct_publisher_GID-300025_Type-300016` | `etype:schema_Person_GID-3000201`|
+| `etype:ds_Dataset_GID-3000181` | `etype:ds_points_Dataset_At_Data_Resource_GID-300021_Type-300018` | `etype:ds_Dataset_GID-3000183`|

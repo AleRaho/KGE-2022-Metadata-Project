@@ -1,0 +1,36 @@
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#doap_release_GID-300031_Type-300014> "1.0" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "Research and develop applications for the matching of schemas, ontologies, and classifications in multiple languages and for multiple domains." .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#ds_purpose_GID-32512> "Research and develop applications for the matching of schemas, ontologies, and classifications in multiple languages and for multiple domains." .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Multilingual and multi-domain semantic matching" .
+<http://knowdive.disi.unitn.it/tables/Dataset_S_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dcat_landingPage_GID-34124> "https://github.com/s-match/" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_modified_GID-300028> "2018-08-02" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2007" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#doap_programming-language_GID-300026_Type-300014> "Java; JavaScript" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Application_Project_GID-300014> .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "LGPL-2.1 license" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_accessRights_GID-28487> "Public" .
+<http://knowdive.disi.unitn.it/tables/Person_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_17> .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_S_11> .
+
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#doap_release_GID-300031_Type-300014> "1.0" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "Research and develop applications for the matching of schemas, ontologies, and classifications in multiple languages and for multiple domains." .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#ds_purpose_GID-32512> "Research and develop applications for the matching of schemas, ontologies, and classifications in multiple languages and for multiple domains." .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Multilingual and multi-domain semantic matching" .
+<http://knowdive.disi.unitn.it/tables/Dataset_S_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dcat_landingPage_GID-34124> "https://github.com/s-match/" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_modified_GID-300028> "2018-08-02" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2007" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#doap_programming-language_GID-300026_Type-300014> "Java; JavaScript" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Application_Project_GID-300014> .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "LGPL-2.1 license" .
+<http://knowdive.disi.unitn.it/tables/Person_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_18> .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dct_accessRights_GID-28487> "Public" .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_S_11> .
+

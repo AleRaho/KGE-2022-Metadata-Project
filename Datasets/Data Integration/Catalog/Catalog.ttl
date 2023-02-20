@@ -1,0 +1,152 @@
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_S_1> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+<http://knowdive.disi.unitn.it/tables/Dataset_S_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live Data" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "a web page collector of data resources, such as the actual datasets, pointing at actual data values." .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://ds.datascientia.eu/catalog/livedata/home" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_S_2> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live Data" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "a web page collector of data resources, such as the actual datasets, pointing at actual data values." .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Dataset_S_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://ds.datascientia.eu/catalog/livedata/home" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live Data" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "a web page collector of data resources, such as the actual datasets, pointing at actual data values." .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_S_3> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://ds.datascientia.eu/catalog/livedata/home" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/Dataset_S_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live Data" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "a web page collector of data resources, such as the actual datasets, pointing at actual data values." .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_S_4> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://ds.datascientia.eu/catalog/livedata/home" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Dataset_S_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_S_5> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live Knowledge" .
+<http://knowdive.disi.unitn.it/tables/Dataset_S_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> " a web page catalog, containing all knowledge base resources." .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://ds.datascientia.eu/catalog/liveknowledge/home" .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://livepeople.datascientia.eu/home" .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_C_7> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live People" .
+<http://knowdive.disi.unitn.it/tables/Dataset_C_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "a web page collector of diachronic data about the everyday life of university students over a period of time, and also additional synchronic data about profile, e.g., demographics, routines, personality." .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://livepeople.datascientia.eu/home" .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_C_8> .
+<http://knowdive.disi.unitn.it/tables/Dataset_C_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live People" .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "a web page collector of diachronic data about the everyday life of university students over a period of time, and also additional synchronic data about profile, e.g., demographics, routines, personality." .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live Knowledge" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_S_9> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> " a web page catalog, containing all knowledge base resources." .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<http://knowdive.disi.unitn.it/tables/Dataset_S_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://ds.datascientia.eu/catalog/liveknowledge/home" .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live Data" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> "a web page collector of data resources, such as the actual datasets, pointing at actual data values." .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Dataset_S_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://ds.datascientia.eu/catalog/livedata/home" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_S_10> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live Knowledge" .
+<http://knowdive.disi.unitn.it/tables/Dataset_S_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Dataset_GID-300018> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dcat_dataset_GID-300024_Type-300016> <http://knowdive.disi.unitn.it/tables/Dataset_S_11> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> " a web page catalog, containing all knowledge base resources." .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://ds.datascientia.eu/catalog/liveknowledge/home" .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_3> <http://knowdive.disi.unitn.it/etype#dct_description_GID-3_Type-300016> " a web page storage unit for projects' language layers." .
+<http://knowdive.disi.unitn.it/tables/Catalog_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<http://knowdive.disi.unitn.it/tables/Catalog_3> <http://knowdive.disi.unitn.it/etype#dct_title_GID-34045_Type-300016> "Live Language" .
+<http://knowdive.disi.unitn.it/tables/Catalog_3> <http://knowdive.disi.unitn.it/etype#dct_license_GID-35108_Type-300016> "CC-BY 4.0" .
+<http://knowdive.disi.unitn.it/tables/Catalog_3> <http://knowdive.disi.unitn.it/etype#dct_isPartOf_GID-112553_Type-300018> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Catalog_3> <http://knowdive.disi.unitn.it/etype#dct_issued_GID-300029_Type-300016> "2022" .
+<http://knowdive.disi.unitn.it/tables/Catalog_3> <http://knowdive.disi.unitn.it/etype#dct_language_GID-33764_Type-300016> "EN" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_3> <http://knowdive.disi.unitn.it/etype#foaf_homepage_GID-34125_Type-300019> "https://livelanguage.datascientia.eu/home" .
+<http://knowdive.disi.unitn.it/tables/Catalog_3> <http://knowdive.disi.unitn.it/etype#dct_publisher_GID-300025_Type-300016> <http://knowdive.disi.unitn.it/tables/Person_0> .
+

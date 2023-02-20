@@ -1,0 +1,281 @@
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "PhD Student" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "simone.bocca@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Simone Bocca" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2105.09432" .
+
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "PhD Student" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "simone.bocca@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2105.09418" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Simone Bocca" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "PhD Student" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "simone.bocca@unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2209.14049" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Simone Bocca" .
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Mayukh Bagchi" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "mayukh.bachi@unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "PhD Student" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2105.09432" .
+
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Mayukh Bagchi" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "mayukh.bachi@unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "PhD Student" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2105.09418" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Mayukh Bagchi" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "mayukh.bachi@unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "PhD Student" .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2209.14049" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+
+<http://knowdive.disi.unitn.it/tables/Person_3> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "carlo.corradini@studenti.unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_3> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Student" .
+<http://knowdive.disi.unitn.it/tables/Person_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_3> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_3> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Carlo Corradini" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_3> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Person_4> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Student" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_4> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "xuanli.li@studenti.unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_4> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_4> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_4> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Xuanli Li" .
+
+<http://knowdive.disi.unitn.it/tables/Person_5> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Trentino Trasporti SpA" .
+<http://knowdive.disi.unitn.it/tables/Person_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_5> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_5> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "Trentino Trasporti SpA" .
+<http://knowdive.disi.unitn.it/tables/Person_5> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "info@trentinotrasporti.it" .
+<http://knowdive.disi.unitn.it/tables/Person_5> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Third-Party" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+
+<http://knowdive.disi.unitn.it/tables/Person_6> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Servizio Trasporti pubblici" .
+<http://knowdive.disi.unitn.it/tables/Person_6> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Third-Party" .
+<http://knowdive.disi.unitn.it/tables/Person_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_6> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "Servizio Trasporti pubblici" .
+<http://knowdive.disi.unitn.it/tables/Person_6> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "bikesharing@provincia.tn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_6> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Person_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_7> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Third-Party" .
+<http://knowdive.disi.unitn.it/tables/Person_7> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Google Transit" .
+<http://knowdive.disi.unitn.it/tables/Person_7> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "Google LLC" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_7> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_7> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "https://support.google.com/transitpartners/gethelp" .
+
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "fausto.giunchiglia@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2105.09432" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Fausto Giunchiglia" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Full Professor" .
+
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "fausto.giunchiglia@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2004.01392" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Fausto Giunchiglia" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Full Professor" .
+
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2211.03009" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "fausto.giunchiglia@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Fausto Giunchiglia" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Full Professor" .
+
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "fausto.giunchiglia@unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2105.09418" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Fausto Giunchiglia" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Full Professor" .
+
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2202.12700" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "fausto.giunchiglia@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Fausto Giunchiglia" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Full Professor" .
+
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "fausto.giunchiglia@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2205.03608" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Fausto Giunchiglia" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Full Professor" .
+
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2209.14049" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "fausto.giunchiglia@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Fausto Giunchiglia" .
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Full Professor" .
+
+<http://knowdive.disi.unitn.it/tables/Person_9> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Gábor Bella" .
+<http://knowdive.disi.unitn.it/tables/Person_9> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Assistant Professor" .
+<http://knowdive.disi.unitn.it/tables/Person_9> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2205.03608" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_9> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "gabor.bella@unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_9> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_9> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "ivano.bison@unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Full Professor" .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2004.01392" .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Ivano Bison" .
+
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "ivano.bison@unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2202.12700" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Full Professor" .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Ivano Bison" .
+
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "ivano.bison@unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2211.03009" .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Full Professor" .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Ivano Bison" .
+
+<http://knowdive.disi.unitn.it/tables/Person_11> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2004.01392" .
+<http://knowdive.disi.unitn.it/tables/Person_11> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "Infeurope SA" .
+<http://knowdive.disi.unitn.it/tables/Person_11> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "IT Consultant" .
+<http://knowdive.disi.unitn.it/tables/Person_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_11> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_11> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Enrico Bignotti" .
+
+<http://knowdive.disi.unitn.it/tables/Person_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_12> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Mattia Zeni" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_12> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Solutions Architect" .
+<http://knowdive.disi.unitn.it/tables/Person_12> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "Databricks Inc." .
+<http://knowdive.disi.unitn.it/tables/Person_12> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_12> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2004.01392" .
+
+<http://knowdive.disi.unitn.it/tables/Person_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_13> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Elisa Gobbi" .
+<http://knowdive.disi.unitn.it/tables/Person_13> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_13> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2004.01392" .
+
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2202.12700" .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Matteo Busso" .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "matteo.busso@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "PhD Student" .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Matteo Busso" .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2211.03009" .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "matteo.busso@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "PhD Student" .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Person_15> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2211.03009" .
+<http://knowdive.disi.unitn.it/tables/Person_15> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Research Fellowship Holder" .
+<http://knowdive.disi.unitn.it/tables/Person_15> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "marcelo.rodasbritez@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_15> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_15> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Marcelo Dario Rodas Britez" .
+<http://knowdive.disi.unitn.it/tables/Person_15> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+
+<http://knowdive.disi.unitn.it/tables/Person_16> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Ronald Chenu-Abente Acosta" .
+<http://knowdive.disi.unitn.it/tables/Person_16> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_16> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "r.chenuabenteacosta@unitn.it" .
+<http://knowdive.disi.unitn.it/tables/Person_16> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_16> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "https://doi.org/10.48550/arXiv.2211.03009" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_16> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Guest" .
+<http://knowdive.disi.unitn.it/tables/Person_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+
+<http://knowdive.disi.unitn.it/tables/Person_17> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "aliaksandr@autayeu.com" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_17> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_17> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Aliaksandr Autayeu" .
+<http://knowdive.disi.unitn.it/tables/Person_17> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Researcher" .
+<http://knowdive.disi.unitn.it/tables/Person_17> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+
+<http://knowdive.disi.unitn.it/tables/Person_18> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "David Leoni" .
+<http://knowdive.disi.unitn.it/tables/Person_18> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+
+<http://knowdive.disi.unitn.it/tables/Person_19> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "vincenzo.maltese@unitn.it" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_19> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+<http://knowdive.disi.unitn.it/tables/Person_19> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_19> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Head of UniTN Digital Services for Research" .
+<http://knowdive.disi.unitn.it/tables/Person_19> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "Vincenzo Maltese" .
+<http://knowdive.disi.unitn.it/tables/Person_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_19> <http://knowdive.disi.unitn.it/etype#schema_author_GID-108806_Type-300020> "http://dx.doi.org/10.1080/01639374.2016.1245231" .
+
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://knowdive.disi.unitn.it/etype#schema_email_GID-45803_Type-300020> "http://datascientia.disi.unitn.it/contact-us/" .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://knowdive.disi.unitn.it/etype#schema_worksFor_GID-112900_Type-300020> <https://ds.datascientia.eu> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://knowdive.disi.unitn.it/etype#schema_hasOccupation_GID-3742_Type-300020> "Organisation" .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://knowdive.disi.unitn.it/etype#schema_name_GID-2_Type-300020> "DataScientia" .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Person_0> <http://knowdive.disi.unitn.it/etype#schema_affiliation_GID-74059_Type-300013> "University of Trento (IT)" .
+
