@@ -1,5 +1,6 @@
 **Knowledge Engineer:** Pelagalli Camilla
-**Data Analyst:**Raho Alessandro Salvatore.
+
+**Data Engineer:** Raho Alessandro Salvatore.
 
 This project resulted from the 2022/2023 Knowledge Graph Engineering class of Prof. Fausto Giunchiglia at UniTn. 
 
