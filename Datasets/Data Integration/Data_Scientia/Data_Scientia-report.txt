@@ -1,0 +1,25 @@
+# Data_Scientia.csv
+
+## Add Column
+
+## Add Node/Literal
+
+## PyTransforms
+
+## Selections
+
+## Semantic Types
+| Column | Property | Class |
+|  ----- | -------- | ----- |
+| _Catalog_ | `uri` | `etype:dcat_Catalog_GID-3000161`|
+| _Person_ | `uri` | `etype:schema_Person_GID-3000201`|
+| _Project_ | `uri` | `etype:ds_Project1`|
+| _Web_Page_ | `uri` | `etype:ds_Data_Scientia_GID-3000191`|
+
+
+## Links
+| From | Property | To |
+|  --- | -------- | ---|
+| `etype:ds_Data_Scientia_GID-3000191` | `etype:dct_hasPart_GID-95878_Type-300019` | `etype:dcat_Catalog_GID-3000161`|
+| `etype:ds_Data_Scientia_GID-3000191` | `etype:dct_hasPart_GID-95878_Type-300019` | `etype:schema_Person_GID-3000201`|
+| `etype:ds_Data_Scientia_GID-3000191` | `etype:dct_hasPart_GID-95878_Type-300019` | `etype:ds_Project1`|

@@ -1,0 +1,118 @@
+<http://knowdive.disi.unitn.it/tables/Person_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_1> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+
+<http://knowdive.disi.unitn.it/tables/Person_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_2> .
+
+<http://knowdive.disi.unitn.it/tables/Person_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/KGE_P_1> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_3> .
+
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_4> .
+<http://knowdive.disi.unitn.it/tables/KGE_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+<http://knowdive.disi.unitn.it/tables/Person_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/KGE_P_1> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_5> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_1> .
+<http://knowdive.disi.unitn.it/tables/Person_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_6> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_1> .
+<http://knowdive.disi.unitn.it/tables/Person_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+
+<http://knowdive.disi.unitn.it/tables/Person_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_7> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_2> .
+<http://knowdive.disi.unitn.it/tables/Catalog_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+
+<http://knowdive.disi.unitn.it/tables/Person_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/STD_P_1> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_8> .
+<http://knowdive.disi.unitn.it/tables/STD_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_4> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_9> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/STD_P_1> .
+<http://knowdive.disi.unitn.it/tables/STD_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_4> .
+<http://knowdive.disi.unitn.it/tables/Person_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_10> .
+
+<http://knowdive.disi.unitn.it/tables/Person_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/STD_P_1> .
+<http://knowdive.disi.unitn.it/tables/STD_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_4> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_11> .
+
+<http://knowdive.disi.unitn.it/tables/Person_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/STD_P_1> .
+<http://knowdive.disi.unitn.it/tables/STD_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_4> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_12> .
+
+<http://knowdive.disi.unitn.it/tables/Person_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/STD_P_1> .
+<http://knowdive.disi.unitn.it/tables/STD_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_4> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_13> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/STD_P_1> .
+<http://knowdive.disi.unitn.it/tables/STD_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_4> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_14> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/STD_P_1> .
+<http://knowdive.disi.unitn.it/tables/STD_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_4> .
+<http://knowdive.disi.unitn.it/tables/Person_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_15> .
+
+<http://knowdive.disi.unitn.it/tables/Catalog_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#dcat_Catalog_GID-300016> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/STD_P_1> .
+<http://knowdive.disi.unitn.it/tables/STD_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Catalog_4> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_16> .
+<http://knowdive.disi.unitn.it/tables/Person_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_17> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/APP_P_1> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/Person_18> .
+<https://ds.datascientia.eu> <http://knowdive.disi.unitn.it/etype#dct_hasPart_GID-95878_Type-300019> <http://knowdive.disi.unitn.it/tables/APP_P_1> .
+<https://ds.datascientia.eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Data_Scientia_GID-300019> .
+<http://knowdive.disi.unitn.it/tables/Person_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema_Person_GID-300020> .
+<http://knowdive.disi.unitn.it/tables/APP_P_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds_Project> .
+
