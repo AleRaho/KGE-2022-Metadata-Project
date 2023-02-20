@@ -58,5 +58,3 @@ You can explore deeper our work in our [public repository](https://github.com/Al
 In our [Project Report](https://github.com/AleRaho/KGE-2022-Metadata-Project/tree/main/Documentation), stored in the git repository as well, you will find a detailed step-by-step description in which we tried to explain why this topic is so important and impactfull and how we menaged to produce our KG using the iTelos metodology.
 
 You will find available also our [Data Resources](https://github.com/AleRaho/KGE-2022-Metadata-Project/tree/main/Datasets/Inception/Tables) and [Knowledge Resource](https://github.com/AleRaho/KGE-2022-Metadata-Project/tree/main/Datasets/Formal%20Modeling).
-
-H
