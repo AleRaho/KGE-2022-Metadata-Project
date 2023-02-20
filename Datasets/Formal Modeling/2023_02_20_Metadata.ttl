@@ -1,0 +1,229 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/31a4755f-ad24-4e36-8c50-928c3f97741a>
+        rdf:type          dcat:Distribution ;
+        dct:format        "csv" ;
+        dct:identifier    "Distribution_7" ;
+        dct:issued        "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language      "EN" ;
+        dct:license       "https://www.apache.org/licenses/LICENSE-2.0" ;
+        dct:modified      "2022-11-29T17:29:00Z"^^xsd:dateTime ;
+        dct:title         "KGE_Project.csv" ;
+        dcat:accessURL    "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/KGE_Project.csv"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/KGE_Project.csv"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/0ab5fb40-adb9-48ae-8ba6-5c3b2644ed66>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "Public" ;
+        dct:created        "2022-11-23T14:20:57Z"^^xsd:dateTime ;
+        dct:description    "Etype Person corresponding Dataset (column names: Person_ID, Name, Affiliation, Publication, Contact, Role, Data_Scientia)" ;
+        dct:identifier     "Dataset_3" ;
+        dct:issued         "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language       "EN" ;
+        dct:modified       "2023-02-20T20:26:09Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Agent/afb1bd45-e8bf-40bd-9b49-951a716381a8> , <https://www.epos-eu.org/epos-dcat-ap#Agent/626b134a-2040-4eb4-b836-d0bf6d41a818> ;
+        dct:title          "Person" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/2b5a1cc1-ef2a-497e-b313-07608250524a> ;
+        dcat:keyword       "Metadata" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/86c01a5c-299f-4e9f-86cf-b444237f4e45>
+        rdf:type          dcat:Distribution ;
+        dct:format        "csv" ;
+        dct:identifier    "Distribution_6" ;
+        dct:issued        "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language      "EN" ;
+        dct:license       "https://www.apache.org/licenses/LICENSE-2.0"^^xsd:anyURI ;
+        dct:modified      "2023-02-20T20:27:31Z"^^xsd:dateTime ;
+        dct:title         "Application_Project.csv" ;
+        dcat:accessURL    "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Application_Project.csv"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Application_Project.csv"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/277ba863-610d-458c-844a-94539f74f2bf>
+        rdf:type          dcat:Distribution ;
+        dct:format        "csv" ;
+        dct:identifier    "Distribution_5" ;
+        dct:issued        "2022-12-06T22:59:43Z"^^xsd:dateTime ;
+        dct:language      "EN" ;
+        dct:license       "https://www.apache.org/licenses/LICENSE-2.0"^^xsd:anyURI ;
+        dct:modified      "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:title         "Study_Project.csv" ;
+        dcat:accessURL    "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Study_Project.csv"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Study_Project.csv"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/7d6a19dd-4c5b-4de7-b3fe-c935631aaf8b>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "Public" ;
+        dct:created        "2016-11-23T14:20:00Z"^^xsd:dateTime ;
+        dct:description    "Etype Catalog corresponding Dataset (column names: Catalog_ID, Title, Description, Creation_Date, Language, License, Web_Page, Data_Scientia, Dataset, Person)" ;
+        dct:identifier     "Dataset_4" ;
+        dct:issued         "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language       "EN" ;
+        dct:modified       "2023-02-20T20:28:11Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Agent/626b134a-2040-4eb4-b836-d0bf6d41a818> , <https://www.epos-eu.org/epos-dcat-ap#Agent/afb1bd45-e8bf-40bd-9b49-951a716381a8> ;
+        dct:title          "Catalog" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/b0611e31-2cc8-47e1-8790-77d38d1e296d> ;
+        dcat:keyword       "Metadata" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/1333ffdc-287d-4280-a416-67ac5a4d2f5b>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Mediator between those who wish to make their data available, and those who seek to leverage that data." ;
+        dct:title        "Data intermediary" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/a811b598-87e0-4853-870c-42fc274f07ec>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "Public" ;
+        dct:created        "2022-11-25T17:47:00Z"^^xsd:dateTime ;
+        dct:description    "Etype Data_Scientia corresponding Dataset(column names: Web_Page, Catalog, Person, Project)" ;
+        dct:identifier     "Dataset_2" ;
+        dct:issued         "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language       "EN" ;
+        dct:modified       "2023-02-20T20:28:28Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Agent/afb1bd45-e8bf-40bd-9b49-951a716381a8> , <https://www.epos-eu.org/epos-dcat-ap#Agent/626b134a-2040-4eb4-b836-d0bf6d41a818> ;
+        dct:title          "DataScientia" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/a1ea9eca-415a-458a-b2d4-851a6ee3f463> ;
+        dcat:keyword       "Metadata" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/91b4bab9-a09d-4b23-93f4-5bf2260e90fa>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "Public" ;
+        dct:created        "2022-11-23T14:20:00Z"^^xsd:dateTime ;
+        dct:description    "Etype Dataset corresponding Dataset (column names:Dataset_ID, Title, Theme, Description, Creation_Date, Completion_Date, Last_Update, Format, Language, Geography, License, Layer, Language_Resource, Knowledge_Resource, Data_Resource, Web_Page, Author, Project)" ;
+        dct:identifier     "Dataset_1" ;
+        dct:issued         "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language       "EN" ;
+        dct:modified       "2023-02-20T20:23:58Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Agent/626b134a-2040-4eb4-b836-d0bf6d41a818> , <https://www.epos-eu.org/epos-dcat-ap#Agent/afb1bd45-e8bf-40bd-9b49-951a716381a8> ;
+        dct:title          "Dataset" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/683cf566-1e72-4aec-8941-fce60d0046cf> ;
+        dcat:keyword       "Metadata" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/a1ea9eca-415a-458a-b2d4-851a6ee3f463>
+        rdf:type          dcat:Distribution ;
+        dct:format        "csv" ;
+        dct:identifier    "Distribution_2" ;
+        dct:issued        "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language      "EN" ;
+        dct:license       "https://www.apache.org/licenses/LICENSE-2.0"^^xsd:anyURI ;
+        dct:modified      "2022-12-02T22:48:00Z"^^xsd:dateTime ;
+        dct:title         "Data_Scientia.csv" ;
+        dcat:accessURL    "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Data_Scientia.csv"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Data_Scientia.csv"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Agent/afb1bd45-e8bf-40bd-9b49-951a716381a8>
+        rdf:type   foaf:Agent ;
+        dct:type   <https://www.epos-eu.org/epos-dcat-ap#Concept/86d78b8d-a64e-489b-b8fe-511b6827d1dd> ;
+        foaf:name  "Alessandro Salvatore Raho" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/b0611e31-2cc8-47e1-8790-77d38d1e296d>
+        rdf:type          dcat:Distribution ;
+        dct:format        "csv" ;
+        dct:identifier    "Distribution_4" ;
+        dct:issued        "2022-12-07T19:29:35Z"^^xsd:dateTime ;
+        dct:language      "EN" ;
+        dct:license       "https://www.apache.org/licenses/LICENSE-2.0"^^xsd:anyURI ;
+        dct:modified      "2022-12-22T22:46:00Z"^^xsd:dateTime ;
+        dct:title         "Catalog.csv" ;
+        dcat:accessURL    "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Catalog.csv"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Catalog.csv"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Agent/626b134a-2040-4eb4-b836-d0bf6d41a818>
+        rdf:type   foaf:Agent ;
+        dct:type   <https://www.epos-eu.org/epos-dcat-ap#Concept/86d78b8d-a64e-489b-b8fe-511b6827d1dd> ;
+        foaf:name  "Camilla Pelagalli" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/9ba0d46f-dc4d-4c6e-a1e0-e1d219c68561>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "Public" ;
+        dct:created        "2022-11-23T14:20:00Z"^^xsd:dateTime ;
+        dct:description    "Etype KGE_Project corresponding Dataset (column names: Project_ID, Title, Purpose, Description, Creation_Date, Last_Update, Completion_Date, Access, License, Language, Layer, Web_Page, Author, Dataset)" ;
+        dct:identifier     "Dataset_7" ;
+        dct:issued         "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language       "EN" ;
+        dct:modified       "2023-02-20T20:25:30Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Agent/afb1bd45-e8bf-40bd-9b49-951a716381a8> , <https://www.epos-eu.org/epos-dcat-ap#Agent/626b134a-2040-4eb4-b836-d0bf6d41a818> ;
+        dct:title          "KGE_Project" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/31a4755f-ad24-4e36-8c50-928c3f97741a> ;
+        dcat:keyword       "Metadata" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/34c0a881-d8c1-499d-8d90-e061c04c29de>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "Public" ;
+        dct:created        "2022-12-02T17:52:00Z"^^xsd:dateTime ;
+        dct:description    "Etype Application_Project corresponding Dataset (column names: Project_ID, Title, Purpose, Description, Creation_Date, Last_Update, Completion_Date, Access, License, Language, Web_Page, Affiliation, Programming_Language, Release, Author, Dataset)" ;
+        dct:identifier     "Dataset_6" ;
+        dct:issued         "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language       "EN" ;
+        dct:modified       "2023-02-20T20:26:47Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Agent/afb1bd45-e8bf-40bd-9b49-951a716381a8> , <https://www.epos-eu.org/epos-dcat-ap#Agent/626b134a-2040-4eb4-b836-d0bf6d41a818> ;
+        dct:title          "Application_Project" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/86c01a5c-299f-4e9f-86cf-b444237f4e45> ;
+        dcat:keyword       "Metadata" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/86d78b8d-a64e-489b-b8fe-511b6827d1dd>
+        rdf:type         skos:Concept ;
+        skos:definition  "Data Resources Creator and Publisher" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/1333ffdc-287d-4280-a416-67ac5a4d2f5b> ;
+        skos:prefLabel   "Publisher" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/683cf566-1e72-4aec-8941-fce60d0046cf>
+        rdf:type          dcat:Distribution ;
+        dct:format        "csv" ;
+        dct:identifier    "Distribution_1" ;
+        dct:issued        "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language      "EN" ;
+        dct:license       "https://www.apache.org/licenses/LICENSE-2.0"^^xsd:anyURI ;
+        dct:modified      "2022-12-05T11:14:00Z"^^xsd:dateTime ;
+        dct:title         "Dataset.csv" ;
+        dcat:accessURL    "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Dataset.csv"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Dataset.csv"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/2b5a1cc1-ef2a-497e-b313-07608250524a>
+        rdf:type          dcat:Distribution ;
+        dct:format        "csv" ;
+        dct:identifier    "Distribution_3" ;
+        dct:issued        "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language      "EN" ;
+        dct:license       "https://www.apache.org/licenses/LICENSE-2.0"^^xsd:anyURI ;
+        dct:modified      "2022-12-02T21:49:00Z"^^xsd:dateTime ;
+        dct:title         "Person.csv" ;
+        dcat:accessURL    "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Person.csv"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/AleRaho/Metadata/blob/main/Datasets/Inception/Tables/Person.csv"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/42bd49ed-f9f3-4ca3-9411-4655d7eb8471>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "Public" ;
+        dct:created        "2022-11-23T14:20:00Z"^^xsd:dateTime ;
+        dct:description    "Etype Study_Project corresponding Dataset (column names: Project_ID, Title, Purpose, Description, Creation_Date, Last_Update, Completion_Date, Access, License, Language, Web_Page, Affiliation, Study_Documentation, Author, Dataset)" ;
+        dct:identifier     "Dataset_5" ;
+        dct:issued         "2022-12-07T19:29:00Z"^^xsd:dateTime ;
+        dct:language       "EN" ;
+        dct:modified       "2023-02-20T20:23:47Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Agent/afb1bd45-e8bf-40bd-9b49-951a716381a8> , <https://www.epos-eu.org/epos-dcat-ap#Agent/626b134a-2040-4eb4-b836-d0bf6d41a818> ;
+        dct:title          "Study_Project" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/277ba863-610d-458c-844a-94539f74f2bf> ;
+        dcat:keyword       "Metadata" .
