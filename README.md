@@ -1,7 +1,7 @@
 # KGE 2022: Metadata Project
 ### By Pelagalli Camilla & Raho Alessandro S.
 
-##### Purpose and Domain of Interest
+#### Purpose and Domain of Interest
 Our project context is an Open Data environment, where anyone is free to use, re-use or
 redistribute resources - data or contents - while preserving provenance and openness.
 Data Scientia is the concrete representation of this environment: an under-costruction
