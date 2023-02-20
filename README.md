@@ -1,4 +1,4 @@
-Authors: Pelagalli Camilla and Raho Alessandro Salvatore.
+**Authors:** Pelagalli Camilla and Raho Alessandro Salvatore.
 
 This project was created for the 2022/2023 Knowledge Graph Engineering class of Prof. Fausto Giunchiglia at UniTn. 
 
@@ -12,13 +12,16 @@ edge Graph Engineering (KGE) processes following the iTelos methodology
 [link](https://doi.org/10.48550/arxiv.2105.09418). Each project can contain multiple datasets,
 each belonging to a different informational layer. For each project, three main layers should be
 identified:
-• Language Layer: any linguistic resource - property or dataset about languages and terms
+
+• **Language Layer:** any linguistic resource - property or dataset about languages and terms
 used - should be explicitly referenced to increase re-usability.
-• Knowledge Layer: any Knowledge Base encoding information about KG schemas (etypes
+
+• **Knowledge Layer:** any Knowledge Base encoding information about KG schemas (etypes
 and properties). If detailed enough, this layer could be decomposed in its core elements:
 ontology and teleology, thus giving the user an unprecedented insight into the conceptual
 and relational data shaping behind the actual data values representation.
-• Data layer: any dataset which consists of data in some format, instantiating the KG’s struc-
+
+• **Data layer:** any dataset which consists of data in some format, instantiating the KG’s struc-
 ture (entities and attributes). If users are interested in expanding data resources, they can
 use the already existing schemas as meaningful anchors, without loosing data quality.
 Data Scientia users should have access to both projects and their layers and decide what to
@@ -31,8 +34,8 @@ directly, without having to go through whole projects at the risk of stepping aw
 purpose. Metadata reduces search time and space: they allow users to skip to what is essential
 to them, making the Data Scientia successful and meaningful.
 Our project purpose can now be stated unambiguously:
-A KG supporting the Data Scientia web portal’s users to find the most suitable resource
-for their needs, as well as all the resources linked by the one searched.
+*A KG supporting the Data Scientia web portal’s users to find the most suitable resource
+for their needs, as well as all the resources linked by the one searched.*
 To achieve the project objective, we have analyzed existing KGE Projects and Data Sci-
 entia resources and projects, which were our data resources. We have extracted the
 fundamental layered view of datasets from KGE Projects and we have outlined Data Scientia
@@ -42,3 +45,5 @@ latter helped us understanding the preliminary boundaries of our schema resource
 the present structure of the portal with its shortcomings: the absence of linked resources and
 informational layers. To overcome them, we have designed a possible and plausible future
 structure for the Data Scientia web portal, by defining its Knowledge Graph.
+
+You can explore deeper our work in our [public repository](https://github.com/AleRaho/KGE-2022-Metadata-Project)
