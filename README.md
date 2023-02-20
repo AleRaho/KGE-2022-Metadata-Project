@@ -1,6 +1,6 @@
 **Authors:** Pelagalli Camilla and Raho Alessandro Salvatore.
 
-This project was created for the 2022/2023 Knowledge Graph Engineering class of Prof. Fausto Giunchiglia at UniTn. 
+This project resulted from the 2022/2023 Knowledge Graph Engineering class of Prof. Fausto Giunchiglia at UniTn. 
 
 ### Purpose and Domain of Interest
 Our project context is an Open Data environment, where anyone is free to use, re-use or
@@ -48,4 +48,5 @@ the present structure of the portal with its shortcomings: the absence of linked
 informational layers. To overcome them, we have designed a possible and plausible future
 structure for the Data Scientia web portal, by defining its Knowledge Graph.
 
-You can explore deeper our work in our [public repository](https://github.com/AleRaho/KGE-2022-Metadata-Project)
+You can explore deeper our work in our [public repository](https://github.com/AleRaho/KGE-2022-Metadata-Project).
+In our [Project Report](), stored in the git repository as well, you will find a detailed step-by-step description in which we tried to explain why this topic is so important and impactfull and how we menaged to produce our KG using the iTelos metodology. 
