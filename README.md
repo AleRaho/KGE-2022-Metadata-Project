@@ -10,8 +10,8 @@ redistribute resources - data or contents - while preserving provenance and open
 Data Scientia is the concrete representation of this environment: an under-costruction
 web portal that allows users to explore different kind of datasets.
 Data Scientia’s main goal is to gather all projects that result from Knowl-
-edge Graph Engineering (KGE) processes following the iTelos methodology
-[link](https://doi.org/10.48550/arxiv.2105.09418). Each project can contain multiple datasets,
+edge Graph Engineering (KGE) processes following the
+[iTelos](https://doi.org/10.48550/arxiv.2105.09418) methoodology. Each project can contain multiple datasets,
 each belonging to a different informational layer. For each project, three main layers should be
 identified:
 
